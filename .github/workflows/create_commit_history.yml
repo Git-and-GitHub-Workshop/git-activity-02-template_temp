@@ -57,7 +57,7 @@ jobs:
         run: |
           # Stage the file, commit and push
           git add Animal_functionality/Animal.md
-          git commit -m "Adding Cat info"
+          git commit -m "Adding Cat info on cats branch"
           git push --set-upstream origin cats
           
       - name: Checkout main and add dog info
