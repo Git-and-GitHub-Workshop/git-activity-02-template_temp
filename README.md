@@ -6,7 +6,7 @@ This activity will be used along with the quiz in Canvas. The quiz will ask you 
 
 This activity will also mirror, in some ways, the slides from Dr. Silva's video recording. In that recording, she walked through the idea of snapshots using an example pictured below.
 
-![NEED TO ADD IMAGE FROM SLIDES WHEN FINALIZED]()
+![Git data model image](images/git_data_model.png)
 
 Remember, this repo started with a README.md file--maybe this very file you are reading now!
 
@@ -18,6 +18,13 @@ Also note that the commit history, and the resulting snapshots, will be differen
 
 You should already have the Canvas quiz that accompanies this exercise opened, if not, open it now.
 
-The first step was using GitHub Classroom to accept this assignment.
-
-Now you can clone this onto your computer to work through the quiz and answer the questions.
+1. The first step was using GitHub Classroom to accept this assignment. Done!
+1. Next we need to run a GitHub Action to set things up for the exercise. We will learn more about actions later in the course, but for now, all we need to do is run the pre-set action.
+   * In your repository, click on the "Actions" tab, shown below
+   ![Screenshot of GitHub repo showing the Actions button](images/github_actions_button.png)
+   * Now, we need to run the "Setup Commit History" action. Select that on the left-hand panel, then click the "Run workflow" button on the right and from the dropdown, click the green "Run workflow button". These steps are illustrated below.
+   ![Screenshot of running the Setup Commit History action](images/github_run_action.png) 
+1. Now you can clone this onto your computer to work through the quiz and answer the questions.
+   * Click back on the "<>Code" tab, then click on the green "Code" button, and either copy the text string to clone the repo (to use the command line) or click the "Open with GitHub Desktop" button (to have GitHub Desktop clone the repo locally and open it)
+   ![Screenshot of cloning the repo in GitHub](images/github_clone.png)
+1. The rest of the instructions are in the Canvas quiz. Follow the directions and answer the questions as you go.
