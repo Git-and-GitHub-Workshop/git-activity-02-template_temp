@@ -20,6 +20,6 @@ You should already have the Canvas quiz accompanying this exercise opened; if no
 
 1. The first step was using GitHub Classroom to accept this assignment. **Done!**
 1. Now, clone this onto your computer to complete the quiz.
-   * Click on the green "Code<>" button, and **either** copy the text string to clone the repo (using the command line) **or** click the "Open with GitHub Desktop" button (to have GitHub Desktop clone the repo locally and open it)
+   * Click on the green "<>Code" button, and **either** copy the text string to clone the repo (using the command line) **or** click the "Open with GitHub Desktop" button (to have GitHub Desktop clone the repo locally and open it)
    ![Screenshot of cloning the repo in GitHub](images/github_clone.png)
 1. The rest of the instructions are in the Canvas quiz. Follow the directions and answer the questions as you go.
