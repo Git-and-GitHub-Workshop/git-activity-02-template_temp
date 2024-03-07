@@ -1,6 +1,6 @@
 # Git Activity
 
-This is a template repo for the 2nd `git` activity in module 1 of the Git and GitHub Workshop.
+Welcome to the repo for the second `git` activity in Module 1 of the Git and GitHub Workshop.
 
 This activity will be used along with the quiz in Canvas. The quiz will ask you questions about the repository, which you can only answer using the repo.
 
